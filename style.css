@@ -1,0 +1,399 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;1,200;1,300;1,400;1,600&display=swap");
+.pagina {
+  overflow: hidden;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.cima {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  height: 80px;
+  box-shadow: 0px 1px 3px rgb(199, 199, 199);
+}
+.menu-icon img {
+  width: 45px;
+  height: 40px;
+  margin: 0px 5px 0px 0px;
+  padding-top: 6px;
+  margin-left: 16px;
+}
+.menu-chat img {
+  width: 24px;
+  height: 24px;
+  margin-left: 100px;
+  padding-right: 13px;
+}
+.menu-notificacao img {
+  width: 24px;
+  height: 24px;
+  padding-right: 13px;
+}
+.menu-logo-olx {
+  width: 55px;
+  height: 55px;
+}
+.menu-anunciar {
+  height: 35px;
+  width: 100px;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 700;
+  background-color: #f78323;
+  border: none;
+  text-align: center;
+  border-radius: 30px;
+  align-items: center;
+  justify-content: center;
+}
+.corpo {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.corpo-suporior {
+  background-color: #6e0ad6;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 370px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: rgb(0 0 0 / 8%) 0px 4px 16px 0px;
+}
+.corpo-pontos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #fff;
+}
+.corpo-foto-usuario-img {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  margin: 20px 0px 10px 0px;
+}
+.corpo-nivel {
+  font-weight: 700;
+  padding-bottom: 8px;
+}
+.corpo-barra-pontos {
+  color: #6e0ad6;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin: 5px 0px 15px 0px;
+}
+.corpo-barra-pontos:hover {
+  background-color: #9643f0;
+}
+.corpo-arvore-img {
+  filter: invert(1);
+  width: 90px;
+  height: 90px;
+  padding: 0px 0px 15px 10px;
+}
+.corpo-texto {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  width: 370px;
+  height: 75px;
+  margin-bottom: 20px;
+  box-shadow: 0px 1px 3px rgb(199, 199, 199);
+  text-align: center;
+  word-break: break-word;
+}
+.corpo-cupons1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  width: 370px;
+  height: 75px;
+  margin-bottom: 20px;
+  box-shadow: rgb(0 0 0 / 8%) 0px 4px 16px 0px, rgb(0 0 0 / 6%) 0px 2px 4px 0px;
+}
+.corpo-cupons2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  width: 370px;
+  height: 75px;
+  margin-bottom: 20px;
+  box-shadow: rgb(0 0 0 / 8%) 0px 4px 16px 0px, rgb(0 0 0 / 6%) 0px 2px 4px 0px;
+}
+.corpo-cupons3 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  width: 370px;
+  height: 75px;
+  margin-bottom: 20px;
+  box-shadow: rgb(0 0 0 / 8%) 0px 4px 16px 0px, rgb(0 0 0 / 6%) 0px 2px 4px 0px;
+}
+.cupon-verde10 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: #f78323;
+  width: 200px;
+  height: 45px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+  word-break: break-word;
+}
+.cupon-verde30 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: #f78323;
+  width: 200px;
+  height: 45px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+  word-break: break-word;
+}
+.cupon-verde45 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: #f78323;
+  width: 200px;
+  height: 45px;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+  word-break: break-word;
+}
+.cupon-azul {
+  background-color: dodgerblue;
+  width: 300px;
+  height: 30px;
+  border-radius: 3px;
+}
+.cupom {
+  color: #f78323;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 22px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border-color: #000000;
+  border-style: dashed;
+  border-width: 1px;
+  width: 200px;
+  height: 45px;
+}
+.corpo-link {
+  font-size: 24px;
+  color: #f78323;
+  font-weight: 700;
+}
+.m-icon {
+  width: 24px;
+  height: 24px;
+}
+.m-link {
+  padding-left: 16px;
+}
+.corVerde {
+  color: rgb(112, 189, 35);
+}
+.caixinha-novo {
+  display: flex;
+  align-items: center;
+  height: 20px;
+  font-size: 12px;
+  font-weight: 700;
+  color: rgb(112, 189, 35);
+  background-color: rgb(207, 221, 193);
+  border-radius: 5px;
+}
+.foto-olx-cs-consciente {
+  margin: 50px 0px 50px 0px;
+  width: 250px;
+  height: 250px;
+}
+.texto-um {
+  background-color: #7c00de;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 35px;
+  padding: 60px 60px 60px 60px;
+}
+.texto-dois {
+  padding: 60px 60px 60px 60px;
+  color: #7c00de;
+  font-weight: 700;
+  font-size: 35px;
+}
+.arvore-olx-desenho {
+  width: 80px;
+  height: 80px;
+}
+.caixa-cinza {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #efefef;
+  height: 500px;
+  width: 100%;
+}
+.texto-tres {
+  width: 350px;
+  height: 300px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.texto-tres-p {
+  display: block;
+  color: #7c00de;
+  font-weight: 700;
+  font-size: 25px;
+  padding-bottom: 15px;
+}
+.cupom-codigo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 250px;
+  height: 250px;
+}
+.menu-verde {
+  padding-right: 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.menu {
+  list-style: none;
+  float: right;
+}
+.menu li {
+  /* position:relative; */
+  /* float:right; */
+  padding-top: 5px;
+}
+.menu li a,
+p {
+  text-decoration: none;
+  padding: 5px 0px 5px 0px;
+  display: block;
+  color: #000000;
+  display: flex;
+  align-items: center;
+}
+.menu li:hover {
+  background-color: rgb(255, 255, 255);
+}
+.menu li a:hover {
+  background: rgb(255, 255, 255);
+}
+.foto-usuaio {
+  margin: 0px 0px 0px 0px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.menu li ul {
+  margin-top: 53px;
+  position: absolute;
+  top: 28px;
+  /* right:1; */
+  background-color: transparent;
+  display: none;
+}
+.menu li:hover ul {
+  display: block;
+}
+.menu li ul li {
+  display: block;
+  width: 300px;
+  border-bottom: 2px solid rgb(233, 233, 233);
+  padding: 13px 0px 13px 15px;
+  background-color: rgb(251, 251, 251);
+}
+.menu li ul li:first-child {
+  display: flex;
+  flex-direction: row;
+  width: 300px;
+}
+.menu-nome-usuario {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 15px;
+}
+.menu li ul li:last-child {
+  border-bottom-right-radius: 4px;
+}
+.icons {
+  filter: invert(1);
+  width: 50px;
+  height: 50px;
+  padding-right: 20px;
+}
+.olx-logo {
+  margin-top: 30px;
+  width: 40%;
+  height: 40%;
+}
+.corpo-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer {
+  margin: 50px 0px 25px 0px;
+  color: rgb(90, 90, 90);
+  text-decoration: underline;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}

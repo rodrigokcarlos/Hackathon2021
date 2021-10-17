@@ -4,8 +4,8 @@
 <p align="center">"Reinventando um hábito: criar soluções sustentáveis e convenientes para conscientizar a compra e venda de usados através da Compra Segura."</p>
 <p>Projeto em desenvolvimento.</p>
 
-## Documentação
-<a href=https://docs.google.com/document/d/1UuIFQNJBjqRdxYMRhfT7-d0ee0QBWL231MT5Bbv1q0c/edit#>docs</a>
+## Documentação 
+Link para todo o levantamento da documentação do software <a href=https://docs.google.com/document/d/1UuIFQNJBjqRdxYMRhfT7-d0ee0QBWL231MT5Bbv1q0c/edit#> Link do Termo de Abertura e afins</a>
 
 <div><h2>Para uma melhor experiência abria a aplicação pelo celular</h2></div>
 

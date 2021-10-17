@@ -1,4 +1,4 @@
-# Hackathon2021-olx
+# Aplicação MOBILE
 
 ## Descrição do Projeto
 <p align="center">No cenário atual, em que a OLX causa um grande impacto positivo de sustentabilidade com as revendas de produtos e juntamente a isso, acaba criando oportunidades para centenas de colaboradores. Para tornar isso seguro a OLX oferece um sistema de compra segura.

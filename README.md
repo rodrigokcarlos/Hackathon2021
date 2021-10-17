@@ -12,7 +12,7 @@ que é incentivar e conscientizar o usuário a uma forma de consumo mais sustent
 ## Demonstração da aplicação
 <h1 align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://media.discordapp.net/attachments/898652857820143617/899201213931880539/olx_perfil.jpg?width=380&height=676" />
-  <a href="https://hackathon2021.vercel.app">Vercel</a>
+  <p><a href="https://hackathon2021.vercel.app">Link da Aplicação</a></p>
 </h1>
 
 ## Tabela de Conteúdos

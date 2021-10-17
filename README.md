@@ -5,6 +5,9 @@
 Tendo isso em vista a equipe Forsoft Rio apresenta uma reinvenção nesse hábito, com o intuito de inovar e incentivar, atraindo mais usuários para a OLX Pay, com o intuito de intensificar a segurança na compra e juntamente aumentando as vendas pelo o “Compra Segura”, tornando o impacto positivo de sustentabilidade maior. Nossa solução para tal reinvenção se volta para um sistema de cupons, para incentivar usuários a comprar utilizando o Compra Segura”. Para tornar isso ainda mais dinâmico, nossa reinvenção traz a possibilidade de qualquer usuário poder saber a proporção do impacto sustentável individual, que sua atitude de revenda ou comprar na OLX causa no planeta.  Assim, cumprindo nossos principais objetivos, 
 que é incentivar e conscientizar o usuário a uma forma de consumo mais sustentável e rentável usando a OLX.</p>
 
+## Documentação
+<a href=https://docs.google.com/document/d/1UuIFQNJBjqRdxYMRhfT7-d0ee0QBWL231MT5Bbv1q0c/edit#>docs</a>
+
 ## Pré-requisitos e como rodar a aplicação/testes
 
 <div>Utilizar a aplicação em celular ou modo mobile</div>
